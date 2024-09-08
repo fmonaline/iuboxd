@@ -2,7 +2,7 @@
 
 **O que é o iuboxd?**
 
-É um cantinho especial na internet dedicado à talentosa cantora IU. Aqui, você encontra todos os clipes e algumas performances da sua carreira, organizados de forma fácil e intuitiva. Quer saber qual música a IU lançou em um determinado ano? O iuboxd te ajuda a encontrar! 
+É um cantinho especial na internet dedicado à talentosa cantora IU. Aqui, você encontra todos os clipes e algumas performances da sua carreira, organizados de forma fácil e intuitiva - em ordem cronológica. Quer saber qual música a IU lançou em um determinado ano? O iuboxd te ajuda a encontrar! 
 
 **Como funciona?**
 
